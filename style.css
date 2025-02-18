@@ -97,7 +97,7 @@ cursor: default;
     position: absolute;
     top: 100%;
     right: 0;
-    background-color: white;
+    background-color: rgb(34, 34, 34);
     width: fit-content;
     max-height: 0;
     overflow: hidden;

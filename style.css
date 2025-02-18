@@ -51,7 +51,7 @@ a {
 }
 
 a:hover {
-    color: rgb(168, 64, 64);
+    color: rgb(211, 194, 42);
     text-decoration: underline;
    text-underline-offset: 1rem; 
    text-decoration-color: 85, 85, 85;
@@ -97,7 +97,7 @@ cursor: default;
     position: absolute;
     top: 100%;
     right: 0;
-    background-color: rgb(34, 34, 34);
+    background-color: white;
     width: fit-content;
     max-height: 0;
     overflow: hidden;
